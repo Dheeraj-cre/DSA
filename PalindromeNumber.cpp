@@ -1,9 +1,11 @@
+// 121 is palindrame number
+
 #include<bits/stdc++.h>
 using namespace std;
 
 int main(){
 
-    int num = 123, temp=num, rev=0; 
+    int num = 121, temp=num, rev=0; 
 
     while (temp > 0)
     {

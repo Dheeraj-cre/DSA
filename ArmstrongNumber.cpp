@@ -1,3 +1,5 @@
+// armstrong number are like 153 cube all digit and sum
+
 #include<bits/stdc++.h>
 using namespace std;
 
